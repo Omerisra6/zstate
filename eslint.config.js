@@ -17,6 +17,9 @@ export default tseslint.config(
 				tsconfigRootDir: import.meta.dirname,
 			},
 		},
+		rules: {
+			'@typescript-eslint/no-explicit-any': 'off',
+		},
 	},
 	{
 		ignores: [
