@@ -1,12 +1,12 @@
 {
-	"name": "create-typescript-package",
-	"description": "A template project for creating TypeScript packages",
-	"version": "0.0.0",
-	"author": "StyleShit",
+	"name": "zstate",
+	"description": "A simple state machine library for React",
+	"version": "1.0.0",
+	"author": "Omerisra6",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/StyleShit/create-typescript-package"
+		"url": "https://github.com/Omerisra6/zstate"
 	},
 	"type": "module",
 	"main": "dist/index.js",
