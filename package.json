@@ -1,5 +1,5 @@
 {
-	"name": "zstate",
+	"name": "ztate",
 	"description": "A simple state machine library for React",
 	"version": "2.0.0",
 	"author": "Omerisra6",
@@ -41,7 +41,7 @@
 		"@vitest/coverage-v8": "^1.5.2",
 		"concurrently": "^8.2.2",
 		"eslint": "^8.57.0",
-		"globals": "^15.6.0",
+		"globals": "^15.1.0",
 		"prettier": "^3.3.2",
 		"tsup": "^8.0.2",
 		"typescript": "^5.4.5",
